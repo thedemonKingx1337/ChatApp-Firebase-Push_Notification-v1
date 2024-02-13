@@ -1,0 +1,3 @@
+To make push-notification Automaticaly you need to add function option in project . But that req Credit card
+
+Replace "functions" folder > index.js with this given index.js
